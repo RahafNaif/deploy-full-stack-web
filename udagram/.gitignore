@@ -1,3 +1,2 @@
 node_modules
-*.sh
-bin
+set_env.sh
